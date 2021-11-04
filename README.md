@@ -11,4 +11,4 @@
 - Contribute more to open source projects
 
 ## Contact
-- [Dena#9937](./) on Discord
+- [Dena#9937](./)
