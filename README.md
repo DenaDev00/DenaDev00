@@ -2,10 +2,10 @@
  I'm Dena
 
 ## Skills 🛠
-- 👨‍💻 JavaScript, Python
+- 👨‍💻 JavaScript, Python, C++
 
 ## Learning ⏳
-- 👨‍💻 C++, C#
+- 👨‍💻 C#
 
 ## 2021 goals 🥅
 - Contribute more to open source projects
